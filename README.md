@@ -1,5 +1,8 @@
 ## Notes
 
+Stripe API 
+
+
 #### Older React Version
 
 ```
